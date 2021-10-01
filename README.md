@@ -1,5 +1,21 @@
 # Cancer Tumor Analysis using Matplotlib
- Pymaceuticals Inc. is a burgeoning pharmaceutical company based out of San Diego that has conducted an study with 249 mice identified with SCC tumor growth, they were treated through a variety of drug regimens over the course of 45 days. The tumor development was observed and measured to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens. The drugs used in this study are:
+
+Pymaceuticals Inc. is a burgeoning pharmaceutical company based out of San Diego that has conducted an study with 249 mice identified with SCC tumor growth, they were treated through a variety of drug regimens over the course of 45 days. 
+
+### Dataset:
+
+[MouseMetadata](Pymaceuticals/data/Mouse_metadata.csv)
+[StudyResults](Pymaceuticals/data/Study_results.csv)
+
+## Analysis:
+
+[Analysis File](Pymaceuticals/pymaceuticals_starter.ipynb)
+
+## Results:
+
+[Analysis File](Pymaceuticals/pymaceuticals_starter.ipynb)
+
+The tumor development was observed and measured to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens. The drugs used in this study are:
 
  ![Drugs](Pymaceuticals/images/drugs.jpg)
 
