@@ -4,8 +4,8 @@ Pymaceuticals Inc. is a burgeoning pharmaceutical company based out of San Diego
 
 ### Dataset:
 
-[MouseMetadata](Pymaceuticals/data/Mouse_metadata.csv)
-[StudyResults](Pymaceuticals/data/Study_results.csv)
+* [MouseMetadata](Pymaceuticals/data/Mouse_metadata.csv)
+* [StudyResults](Pymaceuticals/data/Study_results.csv)
 
 ## Analysis:
 
