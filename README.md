@@ -13,8 +13,6 @@ Pymaceuticals Inc. is a burgeoning pharmaceutical company based out of San Diego
 
 ## Results:
 
-[Analysis File](Pymaceuticals/pymaceuticals_starter.ipynb)
-
 The tumor development was observed and measured to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens. The drugs used in this study are:
 
  ![Drugs](Pymaceuticals/images/drugs.jpg)
